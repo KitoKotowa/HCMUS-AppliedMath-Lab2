@@ -1,1 +1,1 @@
-# HCMUS-AppliedMath-Lab2
+# Image processing using Python and numpy library
